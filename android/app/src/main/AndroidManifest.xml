@@ -23,7 +23,7 @@
         <meta-data
             tools:replace="android:value"
             android:name="com.tplmaps.android.sdk.API_KEY"
-            android:value="Add Key Here ---" />
+            android:value="Add Key Here ----" />
 
         <activity
             android:name=".MainActivity"
