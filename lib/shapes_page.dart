@@ -19,7 +19,7 @@ class _ShapesPageState extends State<ShapesPage > {
   String textValue = "";
   Timer timeHandle = Timer(Duration(seconds: 3), () {});
   int markerCount = 0;
-  String myKey = "\$2a\$10\$S0hDhKNNZgcC9JR6nPXDBDrUAqj8f5gDLP2a0lLGqCTfNKq5GpvY6";
+  String myKey = "";
 
 
   void textChanged(String val) {
