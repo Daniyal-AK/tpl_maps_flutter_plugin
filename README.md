@@ -93,5 +93,3 @@ TplMapsView(
   },
 )
 ```
-  firing them concurrently — see `lib/screens/search_screen.dart`'s
-  `_queueSearch`/`_pendingQuery` for a working pattern.
